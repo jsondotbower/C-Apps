@@ -1,0 +1,13 @@
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\bin\Debug\DateChanger.exe.config
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\bin\Debug\DateChanger.exe.manifest
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\bin\Debug\DateChanger.application
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\bin\Debug\DateChanger.exe
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\bin\Debug\DateChanger.pdb
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Debug\DateChanger.csprojResolveAssemblyReference.cache
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Debug\DateChanger.Form1.resources
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Debug\DateChanger.Properties.Resources.resources
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Debug\DateChanger.csproj.GenerateResource.Cache
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Debug\DateChanger.exe.manifest
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Debug\DateChanger.application
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Debug\DateChanger.exe
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Debug\DateChanger.pdb

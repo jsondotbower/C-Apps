@@ -1,0 +1,12 @@
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\bin\Release\DateChanger.exe.config
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\bin\Release\DateChanger.exe.manifest
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\bin\Release\DateChanger.application
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\bin\Release\DateChanger.exe
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\bin\Release\DateChanger.pdb
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Release\DateChanger.Form1.resources
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Release\DateChanger.Properties.Resources.resources
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Release\DateChanger.csproj.GenerateResource.Cache
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Release\DateChanger.exe.manifest
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Release\DateChanger.application
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Release\DateChanger.exe
+C:\Jason Dev\FAQ Project\Tests\DateChanger\DateChanger\obj\Release\DateChanger.pdb
