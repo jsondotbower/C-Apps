@@ -1,0 +1,12 @@
+﻿<Window x:Class="SpecialOrderTaxUtility.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:System.Windows.Controls;assembly=presentationFramework"
+        mc:Ignorable="d"
+        Title="Special Order Detail Tax Utility" Height="350" Width="880" ResizeMode="CanMinimize">
+    <Grid>
+        <local:Frame x:Name="InitializePage" NavigationUIVisibility="Hidden" Grid.ColumnSpan="2" />
+    </Grid>
+</Window>

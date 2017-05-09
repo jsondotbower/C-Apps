@@ -1,0 +1,24 @@
+﻿<Page x:Class="SpecialOrderTaxUtility.Pages.SpecialOrderTax"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="870"
+      Title="SpecialOrderTax">
+
+    <Grid Background="Gray">
+        <Label x:Name="LblStore" Content="Store Name" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" FontStyle="Italic"/>
+        <TextBox x:Name="TxtName" HorizontalAlignment="Left" Height="23" Margin="110,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="LblName" Content="Enter your name:" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BtnAuthorize" Content="Authorize" HorizontalAlignment="Left" Margin="235,50,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="BtnAuthorize_Click"/>
+        <DataGrid x:Name="DataGrid" IsReadOnly="True" HorizontalAlignment="Left" Margin="10,77,0,0" VerticalAlignment="Top" Height="167" Width="850" IsEnabled="False"/>
+            <TextBox x:Name="TxtUpc" HorizontalAlignment="Left" Height="23" Margin="446,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <Label x:Name="LblUpc" Content="Enter UPC:" HorizontalAlignment="Left" Margin="380,46,0,0" VerticalAlignment="Top" IsEnabled="False"/>
+        <Button x:Name="BtnSearch" Content="Search" HorizontalAlignment="Left" Margin="571,49,0,0" VerticalAlignment="Top" Width="75" Height="23" IsEnabled="False" Click="BtnSearch_Click"/>
+        <Label x:Name="LblSODID" Content="Enter SpecialOrderDetailID:" HorizontalAlignment="Left" Margin="235,249,0,0" VerticalAlignment="Top" IsEnabled="False"/>
+        <TextBox x:Name="TxtSODID" HorizontalAlignment="Left" Height="23" Margin="388,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" IsEnabled="False"/>
+        <Button x:Name="BtnFix" Content="Fix" HorizontalAlignment="Left" Margin="451,252,0,0" VerticalAlignment="Top" Width="75" Height="23" IsEnabled="False" Click="BtnFix_Click"/>
+
+    </Grid>
+</Page>
